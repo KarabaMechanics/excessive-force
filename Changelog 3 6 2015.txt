@@ -1,0 +1,13 @@
+Changelog:
+Missiles changed to 'crazy' missiles
+	-Missiles do not move straight horizontal, but in a sine curve
+	-PREPARE TO DIE
+
+Health now has icon :D
+Added requested assets
+	-Punch animation
+	-Hit animation
+	-Donut
+	-Jump icon (!!!)
+	-Dash icon (!!!)
+	-Blocks
